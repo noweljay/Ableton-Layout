@@ -1,0 +1,3 @@
+Ableton Layout
+mini-project
+Practicing CSS Grid and Flexbox by recreating Ableton website with mobile responsiveness. Design inspired by Ableton.
